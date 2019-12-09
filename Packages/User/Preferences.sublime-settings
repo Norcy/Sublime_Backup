@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/DA CS/One Light.tmTheme",
+	"font_size": 21,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "DA.sublime-theme",
+	"word_wrap": true
+}

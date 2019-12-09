@@ -1,0 +1,8 @@
+{
+	"extensions":
+	[
+		"vnml",
+		"ejs",
+		"wxml"
+	]
+}
