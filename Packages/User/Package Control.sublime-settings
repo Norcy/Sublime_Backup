@@ -6,11 +6,19 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Babel",
 		"Codecs33",
 		"ConvertToUTF8",
 		"DA CS",
 		"DA UI",
 		"Filter Lines",
-		"Package Control"
+		"JsFormat",
+		"LiveReload",
+		"MarkdownPreview",
+		"Package Control",
+		"React ES6 Snippets",
+		"ReactJS",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint_d"
 	]
 }

@@ -1,10 +1,13 @@
 [
 	{ "keys": ["ctrl+i"], "command": "reindent" , "args": { "single_line": false } },
 	{ "keys": ["alt+f"], "command": "prompt_filter_to_lines", "args": { "search_type": "string" } },
-   	{ "keys": ["super+ctrl+i"], "command": "alignment" },
-   	{ "keys": ["super+shift+j"], "command": "reveal_in_side_bar" },
-   	{ "keys": ["super+0"], "command": "toggle_side_bar" },
-   	{ "keys": ["super+shift+s"], "command": "reveal_in_finder" },
-   	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-   	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["super+ctrl+i"], "command": "alignment" },
+	{ "keys": ["super+shift+j"], "command": "reveal_in_side_bar" },
+	{ "keys": ["super+0"], "command": "toggle_side_bar" },
+	{ "keys": ["super+shift+s"], "command": "reveal_in_finder" },
+	{ "keys": ["super+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  },
+	{"keys":["ctrl+l"],"command":"js_format"},
+	{ "keys": ["super+shift+s"], "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"} }
 ]
