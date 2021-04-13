@@ -4,6 +4,11 @@
 ## 原理
 备份 Sublime Text 3 所在目录下的 Installed Packages 和 Packages 文件夹
 
+```sh
+cd ~/Library/Application\ Support/Sublime\ Text\ 3
+# 接下来按 Git 的操作 Push 即可
+```
+
 ## 恢复
 
 ```sh
