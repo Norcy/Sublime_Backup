@@ -1,6 +1,8 @@
 *
 !README.md
-!Packages
+# !Packages
+Packages/**
 !Installed\ Packages
 !.gitignore
 .DS_Store
+!*.sublime-package
